@@ -1,1 +1,1 @@
-This project uses YOLOv5 for real-time object detection to assist visually impaired individuals. A webcam captures live video, processes it on a laptop, and provides audio feedback using text-to-speech (TTS) libraries. Built with Flask for the web interface and OpenCV for image processing, it enhances navigation by identifying objects and obstacles in real time.
+
